@@ -211,7 +211,7 @@ with open (TOKENIZER_PATH,'r') as json_file:
 
 #%%
 
-input_review = 'The movie so good, the trailer intrigues me to watch. The movie is funny. I love it'
+#input_review = 'The movie so good, the trailer intrigues me to watch. The movie is funny. I love it'
 input_review = input('type your review here')
 #preprocessing
 
