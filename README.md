@@ -1,3 +1,5 @@
+<a><img alt = 'image' src="https://img.shields.io/badge/Spyder%20Ide-FF0000?style=for-the-badge&logo=spyder%20ide&logoColor=white"></a>
+
 # Sentiment-Analysis
  trained over 60k iMDB dataset. to classify movie review 
 
